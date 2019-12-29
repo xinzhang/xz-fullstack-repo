@@ -1,0 +1,12 @@
+{
+  "name": "xz-fullstack-mono",
+  "private": true,
+  "workspaces": {
+    "packages": [
+      "packages/*"
+    ]
+  },
+  "devDependencies": {
+    "lerna": "^3.20.1"
+  },
+}
